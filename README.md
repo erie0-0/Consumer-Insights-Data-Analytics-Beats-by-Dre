@@ -2,7 +2,7 @@ The project aims to enhance understanding of customers' experiences and sentimen
 
 The project takes the following steps:
 1. Scrape the data from Amazon.com of Beats Solo Buds and its 5-10 competitors.
-2. Perfom data cleaning, handle missing values, and encode categorical
+2. Perform data cleaning, handle missing values, and encode categorical
  variables, to conduct comprehensive sentiment analysis on consumer reviews.
 3. Apply EDA techniques to uncover patterns and trends in the datasets, facilitating deeper insights.
 4. Perform sentiment analysis on the processed reviews, categorising feedback into positive, negative, and neutral sentiments.
